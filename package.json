@@ -1,0 +1,36 @@
+/*
+sumber no enc 😝 t.me/YDqrsc
+contact t.me/Dqrsc
+minimal jangan hapus deck
+
+error ? entod aja🗿
+*/
+{
+  "name": "Darkcrash",
+  "version": "7.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.5",
+    "path": "latest",
+    "node-telegram-bot-api": "^0.64.0",
+    "pino": "^9.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+/*
+sumber no enc 😝 t.me/YDqrsc
+contact t.me/Dqrsc
+minimal jangan hapus deck
+
+error ? entod aja🗿
+*/
